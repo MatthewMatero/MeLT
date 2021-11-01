@@ -127,5 +127,5 @@ dependencies:
     - urllib3==1.25.8
     - wcwidth==0.2.5
     - werkzeug==1.0.0
-prefix: /users2/mmatero/anaconda3/envs/hulm
+prefix: /users2/mmatero/anaconda3/envs/melt
 
