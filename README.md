@@ -20,9 +20,9 @@ and build a PyTorch dataloader batched by users.
 
 The root directory has a *main.py* which is used to load in the MeLT model and control training, testing, and hyperparameter tuning modes. 
 
-# requirements
+# Requirements
 
-an envrionment.yml file is included that represents a conda envrionment of the libraries used for development of this project. At a high level you will need PyTorch (1.4), PyTorch Lightning(0.7.5), Pandas, and the standard numpy stack. 
+An envrionment.yml file is included that represents a conda envrionment of the libraries used for development of this project. At a high level you will need PyTorch (1.4), PyTorch Lightning(0.7.5), Pandas, and the standard numpy stack. 
 
 # Cite
 ```
