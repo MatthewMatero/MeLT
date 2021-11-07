@@ -26,10 +26,18 @@ An envrionment.yml file is included that represents a conda envrionment of the l
 
 # Cite
 ```
-@article{matero2021melt,
-  title={MeLT: Message-Level Transformer with Masked Document Representations as Pre-Training for Stance Detection},
-  author={Matero, Matthew and Soni, Nikita and Balasubramanian, Niranjan and Schwartz, H Andrew},
-  journal={arXiv preprint arXiv:2109.08113},
-  year={2021}
+@inproceedings{matero-etal-2021-melt-message,
+    title = "{M}e{LT}: Message-Level Transformer with Masked Document Representations as Pre-Training for Stance Detection",
+    author = "Matero, Matthew  and
+      Soni, Nikita  and
+      Balasubramanian, Niranjan  and
+      Schwartz, H. Andrew",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.253",
+    pages = "2959--2966",
 }
 ```
